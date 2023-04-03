@@ -1,19 +1,19 @@
 version: "3"
 services:
   order-beverage-service:
-    image: rutvi1212/vending_machine_microservices:latest
+    image: rutvi1212/vending_machine_microservices:final_image_challenge2_578
     hostname: order-beverage-service
     restart: always
     entrypoint: OrderBeverageService
 
   weather-service:
-    image: rutvi1212/vending_machine_microservices:latest
+    image: rutvi1212/vending_machine_microservices:final_image_challenge2_578
     hostname: weather-service
     restart: always
     entrypoint: WeatherService
     
   beverage-preference-service:
-    image: rutvi1212/vending_machine_microservices:latest
+    image: rutvi1212/vending_machine_microservices:final_image_challenge2_578
     hostname: beverage-preference-service
     restart: always
     entrypoint: BeveragePreferenceService
