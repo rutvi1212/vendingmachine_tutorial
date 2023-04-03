@@ -1,0 +1,11 @@
+--2023-03-22 14:41:13--  https://openresty.org/package/pubkey.gpg
+Resolving openresty.org (openresty.org)... 3.131.85.84, 2600:1f1c:9b2:8000:f183:c67e:2c64:855f
+Connecting to openresty.org (openresty.org)|3.131.85.84|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1688 (1.6K) [text/plain]
+Saving to: ‘STDOUT’
+
+-                                     0%[                                                                  ]       0  --.-KB/s               -                                   100%[=================================================================>]   1.65K  --.-KB/s    in 0s      
+
+2023-03-22 14:41:14 (886 MB/s) - written to stdout [1688/1688]
+
